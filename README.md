@@ -3,5 +3,5 @@
 1 модуль
 
 ISP
-bash 
+```bash
 hostnamectl set-hostname isp;exec bash
